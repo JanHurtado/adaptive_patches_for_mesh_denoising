@@ -2,7 +2,6 @@
 
 ### [Paper] [https://ieeexplore.ieee.org/document/8614304](https://ieeexplore.ieee.org/document/8614304)
 
-### [Executable] [In the release section of this repository](https://git.tecgraf.puc-rio.br/hurtado/point_cloud_denoising_tvcj/-/releases/Paper)
 
 ## Authors 
 [Jan Hurtado](https://scholar.google.com/citations?user=5WJK29sAAAAJ&hl=es), [Marcelo Gattass](https://scholar.google.com/citations?user=zrRqeM8AAAAJ&hl=en), [Alberto Raposo](https://scholar.google.com/citations?user=bbNfBlwAAAAJ&hl=en), and [Jeferson Coelho]().
