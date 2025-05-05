@@ -1,0 +1,10 @@
+dependencies
+dependencies_
+dependencies.zip
+build
+
+*.exe
+
+*.dll
+
+*.TMP
